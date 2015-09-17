@@ -1,0 +1,45 @@
+.important {
+  color: red;
+}
+
+body {
+  font-family: helvetica;
+}
+
+.digital p {
+  background-color: red;
+}
+
+.analog p  {
+  background-color: yellow;
+}
+
+.digital p a {
+  font-weight: bold;
+}
+
+a {
+  font-weight: bold;
+  font-size: 20px
+}
+
+h2 {
+  font-size: 32px;
+  color: blue;
+}
+
+.column h2 {
+  font-style: italic;
+  color: purple;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  background-color: grey;
+}
+
+.column a {
+  font-weight: normal;
+  color: red;
+}
